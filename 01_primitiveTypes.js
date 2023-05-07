@@ -22,8 +22,8 @@ var knowAngular = true;
 var isSoftwareEngineer = true;
 var isBachelor = false; 
 console.log(isBachelor);
-var typeOfIsMarried = typeof isMarried;
-console.log("Type of isMarried:", typeOfIsMarried);
+var typeOfisMarried = typeof isMarried;
+console.log("Type of isMarried:", typeOfisMarried);
 
 // 3. String --> Sequence of character enclosed in '' or ""
 var firstName = "Bill";
